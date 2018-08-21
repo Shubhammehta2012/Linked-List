@@ -1,5 +1,3 @@
-# Author: OMKAR PATHAK
-
 class Node(object):
     # Each node has its data and a pointer that points to next node in the Linked List
     def __init__(self, data, next = None, previous = None):
