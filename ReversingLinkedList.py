@@ -1,4 +1,3 @@
-#  Author: OMKAR PATHAK
 
 import SinglyLinkedList
 
@@ -25,6 +24,4 @@ if __name__ == '__main__':
     reverseLinkedList(myLinkedList)
     myLinkedList.printLinkedList()
 
-    # OUTPUT:
-    # Original: 1 2 3 4 5 6 7 8 9 10
-    # Reversed: 10 9 8 7 6 5 4 3 2 1
+ 
